@@ -1,0 +1,16 @@
+artifact_uri: file:///home/sohan/Kidney-Disease-Classification/mlruns/0/fec6b7d54c4a4c778d442b7f8305a395/artifacts
+deleted_time: 1715804346067
+end_time: 1715793715401
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fec6b7d54c4a4c778d442b7f8305a395
+run_name: luxuriant-swan-177
+run_uuid: fec6b7d54c4a4c778d442b7f8305a395
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715793701143
+status: 3
+tags: []
+user_id: sohan

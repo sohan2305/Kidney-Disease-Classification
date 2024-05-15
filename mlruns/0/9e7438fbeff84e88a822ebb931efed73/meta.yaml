@@ -1,0 +1,16 @@
+artifact_uri: file:///home/sohan/Kidney-Disease-Classification/mlruns/0/9e7438fbeff84e88a822ebb931efed73/artifacts
+deleted_time: 1715804346068
+end_time: 1715794587469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9e7438fbeff84e88a822ebb931efed73
+run_name: auspicious-gull-912
+run_uuid: 9e7438fbeff84e88a822ebb931efed73
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715794572923
+status: 3
+tags: []
+user_id: sohan

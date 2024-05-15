@@ -1,0 +1,16 @@
+artifact_uri: file:///home/sohan/Kidney-Disease-Classification/mlruns/0/6a4f507fb3d24559a30b8e2e4c228cf4/artifacts
+deleted_time: 1715804346053
+end_time: 1715795731000
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 6a4f507fb3d24559a30b8e2e4c228cf4
+run_name: painted-shoat-658
+run_uuid: 6a4f507fb3d24559a30b8e2e4c228cf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715795715858
+status: 3
+tags: []
+user_id: sohan

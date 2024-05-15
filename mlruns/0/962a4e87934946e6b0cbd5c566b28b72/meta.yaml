@@ -1,0 +1,16 @@
+artifact_uri: file:///home/sohan/Kidney-Disease-Classification/mlruns/0/962a4e87934946e6b0cbd5c566b28b72/artifacts
+deleted_time: 1715804346083
+end_time: 1715787324665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 962a4e87934946e6b0cbd5c566b28b72
+run_name: brawny-croc-597
+run_uuid: 962a4e87934946e6b0cbd5c566b28b72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715787308594
+status: 3
+tags: []
+user_id: sohan
