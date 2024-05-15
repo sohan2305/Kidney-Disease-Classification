@@ -64,7 +64,7 @@ mlflow ui
 dagshub
 dagshub
 
-MLFLOW_TRACKING_URI = https://dagshub.com/sohan2305/Kidney-Disease-Classification.mlflow \
+MLFLOW_TRACKING_URI = https://dag shub.com/sohan2305/Kidney-Disease-Classification.mlflow \
 MLFLOW_TRACKING_USERNAME = sohan2305 \
 MLFLOW_TRACKING_PASSWORD = 333e06af0de21e16af92092c0b66bd575f8a8642 \
 python script.py
