@@ -81,3 +81,9 @@ export MLFLOW_TRACKING_PASSWORD=333e06af0de21e16af92092c0b66bd575f8a8642
 ````
 
 
+### DVC cmd
+    
+    
+1. dvc init
+2. dvc repro
+3. dvc dag
